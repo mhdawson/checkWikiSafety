@@ -1,0 +1,26 @@
+{
+  "name": "checkwikisafety",
+  "version": "0.0.1",
+  "description": "",
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "start" : "node lib/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mhdawson/checkWikiSafety.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mhdawson/checkWikiSafety/issues"
+  },
+  "homepage": "https://github.com/mhdawson/checkWikiSafety#readme",
+  "dependencies": {
+    "puppeteer": "^1.13.0"
+  }
+}
